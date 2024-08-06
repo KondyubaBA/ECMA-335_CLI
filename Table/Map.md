@@ -1,4 +1,54 @@
 ## Таблицы
+<details>
+   <summary>Нажмите, чтобы раскрыть</summary>
+  
+  - [ ] 0x00 Module 
+  - [x] 0x01 TypeRef  
+  - [ ] 0x02 TypeDef
+  - [x] 0x03 -
+  - [ ] 0x04 Field
+  - [x] 0x05 -
+  - [ ] 0x06 MethodDef
+  - [x] 0x07 -
+  - [ ] 0x08 Param
+  - [ ] 0x09 InterfaceImpl
+  - [ ] 0x0A MemberRef
+  - [ ] 0x0B Constant
+  - [ ] 0x0C CustomAttribute
+  - [ ] 0x0D FieldMarshal
+  - [ ] 0x0E DeclSecurity
+  - [ ] 0x0F ClassLayout
+  - [ ] 0x10 FieldLayout
+  - [ ] 0x11 StandAloneSig
+  - [ ] 0x12 EventMap
+  - [ ] 0x13 -
+  - [ ] 0x14 Event
+  - [ ] 0x15 PropertyMap
+  - [ ] 0x16 -
+  - [ ] 0x17 Property
+  - [ ] 0x18 MethodSemantics
+  - [ ] 0x19 MethodImpl
+  - [ ] 0x1A ModuleRef
+  - [ ] 0x1B TypeSpec
+  - [ ] 0x1C ImplMap
+  - [ ] 0x1D FieldRVA
+  - [ ] 0x1E -
+  - [ ] 0x1F -
+  - [ ] 0x20 Assembly
+  - [ ] 0x21 AssemblyProcessor
+  - [ ] 0x22 AssemblyOS
+  - [ ] 0x23 AssemblyRef
+  - [ ] 0x24 AssemblyRefProcessor
+  - [ ] 0x25 AssemblyRefOS
+  - [ ] 0x26 File
+  - [ ] 0x27 ExportedType
+  - [ ] 0x28 ManifestResource
+  - [ ] 0x29 NestedClass
+  - [ ] 0x2A GenericParam
+  - [ ] 0x2B MethodSpec
+  - [ ] 0x2C GenericParamConstraint
+</details>
+
 
 |# |    | Название                         |Опсиание            |
 |--|----|----------------------------------|--------------------|
@@ -40,51 +90,4 @@
 |36|0x11|[StandAloneSig](http://)          |                    |
 |37|0x02|[TypeDef](http://)                |                    |
 |38|0x01|[TypeRef](http://)                |                    |
-|39|0x1B|[TypeSpec](http://)                |                    |
-
-- 0x00 Module
-- 0x01 TypeRef
-- 0x02 TypeDef
-- 0x03
-- 0x04 Field
-- 0x05
-- 0x06 MethodDef
-- 0x07
-- 0x08 Param
-- 0x09 InterfaceImpl
-- 0x0A MemberRef
-- 0x0B Constant
-- 0x0C CustomAttribute
-- 0x0D FieldMarshal
-- 0x0E DeclSecurity
-- 0x0F ClassLayout
-- 0x10 FieldLayout
-- 0x11 StandAloneSig
-- 0x12 EventMap
-- 0x13
-- 0x14 Event
-- 0x15 PropertyMap
-- 0x16
-- 0x17 Property
-- 0x18 MethodSemantics
-- 0x19 MethodImpl
-- 0x1A ModuleRef
-- 0x1B TypeSpec
-- 0x1C ImplMap
-- 0x1D FieldRVA
-- 0x1E
-- 0x1F
-- 0x20 Assembly
-- 0x21 AssemblyProcessor
-- 0x22 AssemblyOS
-- 0x23 AssemblyRef
-- 0x24 AssemblyRefProcessor
-- 0x25 AssemblyRefOS
-- 0x26 File
-- 0x27 ExportedType
-- 0x28 ManifestResource
-- 0x29 NestedClass
-- 0x2A GenericParam
-- 0x2B MethodSpec
-- 0x2C GenericParamConstraint
-  
+|39|0x1B|[TypeSpec](http://)               |                    |
