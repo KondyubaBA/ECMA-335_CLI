@@ -50,11 +50,11 @@
 </details>
 
 
-|# |    | Название                         |Опсиание            |
-|--|----|----------------------------------|--------------------|
-|01|0x20|[Assembly](Assembly.md)           |Информация о сборке |
-|02|0x22|[AssemblyOS](http://)             |Не используется     |
-|03|0x22|[AssemblyProcessor](http://)      |                    |
+|# |    | Название                                |Опсиание            |
+|--|----|-----------------------------------------|--------------------|
+|01|0x20|[Assembly](Assembly.md)                  |Информация о сборке |
+|02|0x22|[AssemblyOS](AssemblyOS.md)              |Не используется     |
+|03|0x22|[AssemblyProcessor](AssemblyProcessor.md)|                    |
 |04|0x23|[AssemblyRef](http://)            |                    |
 |05|0x23|[AssemblyRefOS](http://)          |                    |
 |06|0x25|[AssemblyRefOS](http://)          |                    |
