@@ -1,11 +1,11 @@
 [Вернуться](Map.md)
 ## Constant 0x0B
 
-|      |        |       |
-|------|--------|-------|
-|Type  |        |       |
-|Parent|        |       |
-|Value |        |       |
+|      |                                                 |       |
+|------|-------------------------------------------------|-------|
+|Type  |                                                 |       |
+|Parent|an index into the Param, Field, or Property table|       |
+|Value |an index into the Blob heap                      |       |
 
 ## Element types used in signatures
 |Name                |Value|Remarks            |
