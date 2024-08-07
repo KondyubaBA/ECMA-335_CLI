@@ -56,8 +56,8 @@
 |03|0x22|[AssemblyOS](AssemblyOS.md)                        |Не используется     |
 |04|0x21|[AssemblyProcessor](AssemblyProcessor.md)          |Не используется     |
 |05|0x23|[AssemblyRef](AssemblyRef.md)                      |                    |
-|06|0x25|[AssemblyRefOS](AssemblyRefOS.md)                  |                    |
-|07|0x24|[AssemblyRefProcessor](AssemblyRefProcessor.md)    |                    |
+|06|0x25|[AssemblyRefOS](AssemblyRefOS.md)                  |Не используется     |
+|07|0x24|[AssemblyRefProcessor](AssemblyRefProcessor.md)    |Не используется     |
 |08|0x0F|[ClassLayout](ClassLayout.md)                      |                    |
 |09|0x0B|[Constant](Constant.md)                            |                    |
 |10|0x0C|[CustomAttribute](CustomAttribute.md)              |                    |
