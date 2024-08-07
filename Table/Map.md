@@ -54,7 +54,7 @@
 |--|----|-----------------------------------------|--------------------|
 |01|0x20|[Assembly](Assembly.md)                  |Информация о сборке |
 |02|0x22|[AssemblyOS](AssemblyOS.md)              |Не используется     |
-|03|0x22|[AssemblyProcessor](AssemblyProcessor.md)|                    |
+|03|0x21|[AssemblyProcessor](AssemblyProcessor.md)|                    |
 |04|0x23|[AssemblyRef](http://)            |                    |
 |05|0x23|[AssemblyRefOS](http://)          |                    |
 |06|0x25|[AssemblyRefOS](http://)          |                    |
