@@ -21,7 +21,7 @@
   - [ ] 0x10 FieldLayout
   - [ ] 0x11 StandAloneSig
   - [ ] 0x12 EventMap
-  - [ ] 0x13 -
+  - [x] 0x13 -
   - [ ] 0x14 Event
   - [ ] 0x15 PropertyMap
   - [ ] 0x16 -
@@ -32,11 +32,11 @@
   - [ ] 0x1B TypeSpec
   - [ ] 0x1C ImplMap
   - [ ] 0x1D FieldRVA
-  - [ ] 0x1E -
-  - [ ] 0x1F -
-  - [ ] 0x20 Assembly
+  - [x] 0x1E -
+  - [x] 0x1F -
+  - [x] 0x20 Assembly
   - [ ] 0x21 AssemblyProcessor
-  - [ ] 0x22 AssemblyOS
+  - [x] 0x22 AssemblyOS
   - [ ] 0x23 AssemblyRef
   - [ ] 0x24 AssemblyRefProcessor
   - [ ] 0x25 AssemblyRefOS
@@ -52,8 +52,8 @@
 
 |# |    | Название                         |Опсиание            |
 |--|----|----------------------------------|--------------------|
-|01|0x20|[Assembly](Assembly.md)               |Информация о сборке |
-|02|0x22|[AssemblyOS](http://)             |                    |
+|01|0x20|[Assembly](Assembly.md)           |Информация о сборке |
+|02|0x22|[AssemblyOS](http://)             |Не используется     |
 |03|0x22|[AssemblyProcessor](http://)      |                    |
 |04|0x23|[AssemblyRef](http://)            |                    |
 |05|0x23|[AssemblyRefOS](http://)          |                    |
