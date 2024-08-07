@@ -35,11 +35,11 @@
   - [x] 0x1E -
   - [x] 0x1F -
   - [x] 0x20 Assembly
-  - [ ] 0x21 AssemblyProcessor
+  - [x] 0x21 AssemblyProcessor
   - [x] 0x22 AssemblyOS
   - [ ] 0x23 AssemblyRef
-  - [ ] 0x24 AssemblyRefProcessor
-  - [ ] 0x25 AssemblyRefOS
+  - [x] 0x24 AssemblyRefProcessor
+  - [x] 0x25 AssemblyRefOS
   - [ ] 0x26 File
   - [ ] 0x27 ExportedType
   - [ ] 0x28 ManifestResource
