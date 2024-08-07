@@ -65,7 +65,7 @@
 |12|0x12|[EventMap](EventMap.md)                            |                    |
 |13|0x14|[Event](Event.md)                                  |                    |
 |14|0x27|[ExportedType](ExportedType.md)                    |                    |
-|15|0x04|[Field](Field.md)                                  |                    |
+|15|0x04|[Field](Field.md)                                  |Описание поля       |
 |16|0x04|[FieldLayout](FieldLayout.md)                      |                    |
 |17|0x0D|[FieldMarshal](FieldMarshal.md)                    |                    |
 |18|0x1D|[FieldRVA](FieldRVA.md)                            |                    |
